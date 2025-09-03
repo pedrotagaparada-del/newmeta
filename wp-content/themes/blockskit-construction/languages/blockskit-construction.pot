@@ -1,0 +1,321 @@
+# Copyright (C) 2024 BlockskitDev
+# This file is distributed under the GPLv3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Construction 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/blockskit-construction\n"
+"POT-Creation-Date: 2024-11-21 11:20:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:48
+msgid "Blockskit Construction Patterns"
+msgstr ""
+
+#: patterns/about.php:38
+msgid "Worldwide Services"
+msgstr ""
+
+#: patterns/about.php:61
+msgid "Trusted by 25,000+ happy clients &amp; have already join with us to build their dream projects."
+msgstr ""
+
+#: patterns/about.php:70
+msgid "INTRODUCTION OF US"
+msgstr ""
+
+#: patterns/about.php:79
+msgid "Crafting Structures That Last A Lifetime"
+msgstr ""
+
+#: patterns/about.php:83
+msgid "Elit sagittis, occaecat nemo! Massa et volutpat risus, rutrum quo semper occaecati et minim quis totam nascetur proin mollitia. Quisque fringilla turpis unde habitasse auctor ass"
+msgstr ""
+
+#: patterns/about.php:91
+msgid "Dapibus odio dicta."
+msgstr ""
+
+#: patterns/about.php:95
+msgid "Architecto ante voluat."
+msgstr ""
+
+#: patterns/about.php:99
+msgid "Irure hendrerit vitae."
+msgstr ""
+
+#: patterns/about.php:103
+msgid "Tempor error, officiis."
+msgstr ""
+
+#: patterns/about.php:112
+msgid "25+"
+msgstr ""
+
+#: patterns/about.php:116
+msgid "YEARS OF EXPERIENCE"
+msgstr ""
+
+#: patterns/about.php:121
+msgid "( 4.8 ratings by our clients )"
+msgstr ""
+
+#: patterns/about.php:130 patterns/hero-banner.php:48
+msgid "LEARN MORE"
+msgstr ""
+
+#: patterns/about.php:138
+msgid "24*7 CUSTOMER SUPPORT"
+msgstr ""
+
+#: patterns/about.php:142
+msgid "+1809-12-6670"
+msgstr ""
+
+#: patterns/clients.php:66
+msgid "CLIENTS &amp; PARTNERS"
+msgstr ""
+
+#: patterns/clients.php:75
+msgid "Trusted Partners &amp; Clients Around World"
+msgstr ""
+
+#: patterns/clients.php:79
+msgid "Sint lacus tempora facilisis, cillum excepteur accumsan eos fermentum hendrerit, at nisl, velit sint ridiculus. Nascetur recusandae dignissim semper totam euismod! Congue numquam eos autem pulvinar"
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/footer.php:41
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:57
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "Resources"
+msgstr ""
+
+#: patterns/footer.php:93
+msgid "Support"
+msgstr ""
+
+#: patterns/footer.php:112
+msgid "Copyright © 2024 ·"
+msgstr ""
+
+#: patterns/footer.php:118
+msgid "· All rights reserved"
+msgstr ""
+
+#: patterns/header.php:36
+msgid "GET A QUOTE"
+msgstr ""
+
+#: patterns/hero-banner.php:23
+msgid "CONSTRUCTION BUSINESS"
+msgstr ""
+
+#: patterns/hero-banner.php:32
+msgid "Better Solution For Building."
+msgstr ""
+
+#: patterns/hero-banner.php:36
+msgid "Dictum occaecati? Netus, rutrum curae nobis dolor eleifend vel, quia, maecenas voluptatum semper provident. Laoreet mollis eum pellentesque natoque duis expedita diam sed fames quidem minim."
+msgstr ""
+
+#: patterns/hero-banner.php:42
+msgid "GET STARTED"
+msgstr ""
+
+#: patterns/projects.php:21
+msgid "LATEST PROJECTS"
+msgstr ""
+
+#: patterns/projects.php:30
+msgid "Recent Completed"
+msgstr ""
+
+#: patterns/projects.php:30
+msgid "Projects We Involved"
+msgstr ""
+
+#: patterns/projects.php:47
+msgid "RENOVATION"
+msgstr ""
+
+#: patterns/projects.php:51
+msgid "Commercial building for Sungroceries"
+msgstr ""
+
+#: patterns/projects.php:69
+msgid "BUILDING"
+msgstr ""
+
+#: patterns/projects.php:73
+msgid "Green Residential For Rome Developer"
+msgstr ""
+
+#: patterns/projects.php:91
+msgid "REMODELING"
+msgstr ""
+
+#: patterns/projects.php:95
+msgid "Project Management For Two Way Road"
+msgstr ""
+
+#: patterns/projects.php:105
+msgid "VIEW ALL PROJECTS"
+msgstr ""
+
+#: patterns/service.php:25
+msgid "FEATURE SERVICES"
+msgstr ""
+
+#: patterns/service.php:34
+msgid "We provide the best Quality"
+msgstr ""
+
+#: patterns/service.php:34
+msgid "Construction Services"
+msgstr ""
+
+#: patterns/service.php:46
+msgid "MORE SERVICES"
+msgstr ""
+
+#: patterns/service.php:80
+msgid "Building Renovation"
+msgstr ""
+
+#: patterns/service.php:84 patterns/service.php:123 patterns/service.php:162
+msgid "Iusto pretium aut, per orci dolorem beatae asres nunc."
+msgstr ""
+
+#: patterns/service.php:119
+msgid "Repairing &amp; Expand"
+msgstr ""
+
+#: patterns/service.php:158
+msgid "General Contracting"
+msgstr ""
+
+#: patterns/template-404.php:24
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/template-cart.php:27 patterns/template-cart.php:90
+#: patterns/template-cart.php:153
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:209
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/template-cart.php:213
+msgid "Browse store"
+msgstr ""
+
+#: patterns/template-cart.php:221
+msgid "New in store"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#: patterns/template-product-search-results.php:49
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/template-search.php:51
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: patterns/template-single-product.php:58
+msgid "Related products"
+msgstr ""
+
+#: patterns/testimonial.php:21
+msgid "OUR TESTIMONIALS"
+msgstr ""
+
+#: patterns/testimonial.php:30
+msgid "Checkout What Our Clients Says About Us."
+msgstr ""
+
+#: patterns/testimonial.php:42
+msgid "MORE REVIEWS"
+msgstr ""
+
+#: patterns/testimonial.php:52
+msgid "( 5.0 ratings given )"
+msgstr ""
+
+#: patterns/testimonial.php:56 patterns/testimonial.php:88
+msgid "Luctus cras vehicula omnis posuere commodi earum reiciendis inventore, suspendisse, donec deserunt sint. Convallis illo mauris inceptos odio! Consectetuer nesciunt, habitasse fermentum vero."
+msgstr ""
+
+#: patterns/testimonial.php:64
+msgid "George Wilson"
+msgstr ""
+
+#: patterns/testimonial.php:68
+msgid "AGENT, CLIENTS"
+msgstr ""
+
+#: patterns/testimonial.php:84
+msgid "( 4.8 ratings given )"
+msgstr ""
+
+#: patterns/testimonial.php:96
+msgid "Christy Wales"
+msgstr ""
+
+#: patterns/testimonial.php:100
+msgid "ADVISOR, CLIENTS"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Blockskit Construction"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blockskit.com/blockskit-construction/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Blockskit Construction is a modern and versatile WordPress theme designed for various types of websites including advertising, agency, blog, business, corporate, creative, design, finance, investments, management, marketing, portfolio, smm, startup, web design and more. It offers full-site-editing, allowing easy customization of all aspects of your site. With multiple templates, patterns, and style variations, it's suitable for different aesthetics. The theme is also compatible with popular plugins like Elementor, WooCommerce, and Spectra – WordPress Gutenberg Blocks, adding extra functionality to your site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "BlockskitDev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blockskit.com"
+msgstr ""
